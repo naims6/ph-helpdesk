@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Unable to log in to the portal",
+    "description": "Getting an 'Invalid Credentials' error despite using the correct password. The password reset link is also not arriving in my email.",
+    "customer": "Alice Johnson",
+    "priority": "High Priority",
+    "status": "Pending",
+    "createdAt": "1/15/2024"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard analytics are loading very slowly",
+    "description": "The main dashboard takes more than 20 seconds to load all the charts. This issue started happening yesterday.",
+    "customer": "Bob Williams",
+    "priority": "Medium Priority",
+    "status": "Submitted",
+    "createdAt": "2/20/2024"
+  },
+  {
+    "id": 3,
+    "title": "Export to CSV feature is failing",
+    "description": "When I try to export the monthly report, I get a 500 server error page. This is critical for our monthly review.",
+    "customer": "Charlie Brown",
+    "priority": "Medium Priority",
+    "status": "Pending",
+    "createdAt": "3/05/2024"
+  },
+  {
+    "id": 4,
+    "title": "Minor typo on the pricing page",
+    "description": "There is a spelling mistake in the description of the 'Enterprise' plan. It should be 'comprehensive' not 'comprehenisve'.",
+    "customer": "Diana Miller",
+    "priority": "Low Priority",
+    "status": "Submitted",
+    "createdAt": "4/10/2025"
+  },
+  {
+    "id": 5,
+    "title": "Mobile app crashes when opening messages",
+    "description": "The iOS application closes immediately when I tap on the messages tab. I am using the latest version of the app.",
+    "customer": "Ethan Hunt",
+    "priority": "High Priority",
+    "status": "Pending",
+    "createdAt": "5/01/2025"
+  },
+  {
+    "id": 6,
+    "title": "Cannot update my shipping address",
+    "description": "The system shows a success message after I save the new address. However, the old address is still displayed on my profile.",
+    "customer": "Fiona Glenanne",
+    "priority": "Medium Priority",
+    "status": "Submitted",
+    "createdAt": "6/18/2025"
+  },
+  {
+    "id": 7,
+    "title": "Incorrect tax calculation on invoices",
+    "description": "The final invoice total is showing an incorrect tax amount. It seems to be calculating at 10% instead of the required 8%.",
+    "customer": "George Mason",
+    "priority": "High Priority",
+    "status": "Pending",
+    "createdAt": "7/22/2025"
+  },
+  {
+    "id": 8,
+    "title": "Email notifications are being delayed",
+    "description": "I am not receiving email notifications for alerts in real-time. There is usually a delay of 15-20 minutes.",
+    "customer": "Hannah Abbott",
+    "priority": "Medium Priority",
+    "status": "Reviewed",
+    "createdAt": "8/01/2025"
+  },
+  {
+    "id": 9,
+    "title": "Search filter by date is not working",
+    "description": "When I filter transactions using a specific date range, the results are empty. I am certain there were transactions on those dates.",
+    "customer": "Ian Gallagher",
+    "priority": "Medium Priority",
+    "status": "Pending",
+    "createdAt": "9/05/2025"
+  },
+  {
+    "id": 10,
+    "title": "Request to add a 'dark mode' theme",
+    "description": "The current user interface is very bright. A 'dark mode' option would be great for reducing eye strain.",
+    "customer": "Jane Doe",
+    "priority": "Low Priority",
+    "status": "Pending",
+    "createdAt": "9/21/2025"
+  }
+]
