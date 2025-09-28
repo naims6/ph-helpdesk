@@ -2,6 +2,7 @@ import { use, useEffect, useState } from "react";
 import Button from "./components/Button";
 import Card from "./components/Card";
 import Status from "./components/Status";
+import Navbar from "./components/Navbar";
 
 const fetcher = (async () => {
   const res = await fetch("/public/problem.json");
@@ -25,6 +26,7 @@ function App() {
 
   return (
     <>
+      <Navbar />
       <Status loadedData={loadedData}></Status>
       <Button setToggleStatus={setToggleStatus} toggleStatus={toggleStatus} />
       <Card
